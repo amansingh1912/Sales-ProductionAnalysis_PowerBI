@@ -1,5 +1,5 @@
 # Sales Production Analysis in Power BI
-It is one of the previous Enterprise DNA Challenge regarding AIKEEN Sales and Production.
+It is one of the previous Enterprise DNA Challenge regarding Sales and Production Analysis of AIKEEN Industries.
 
 ![sales analysis](https://user-images.githubusercontent.com/72240938/192134446-ddecc93c-01d8-4089-b22b-a832a1eda732.png)
 
