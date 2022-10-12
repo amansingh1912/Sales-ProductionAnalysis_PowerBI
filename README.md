@@ -1,4 +1,6 @@
 # Sales Production Analysis in Power BI
+## [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzRkMTMwYmQtOTU1Ny00NzhhLWExZGMtZmI2OWZkM2UzYTBiIiwidCI6ImQ3MzA2Mjg2LTllYTUtNDUyNi05N2FjLTJmMzg2MzAwODY4MCJ9)
+
 It is one of the previous Enterprise DNA Challenge regarding Sales and Production Analysis of AIKEEN Industries.
 
 ![sales analysis](https://user-images.githubusercontent.com/72240938/192134446-ddecc93c-01d8-4089-b22b-a832a1eda732.png)
@@ -48,7 +50,7 @@ Here, I used Figma for creating the layout for background with ratio 16:9 with 7
 ## Conclusion:
 Overall, it was a good dataset to visualize and it improved my understanding of DAX measures and visualization techniques.
 
-## [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzRkMTMwYmQtOTU1Ny00NzhhLWExZGMtZmI2OWZkM2UzYTBiIiwidCI6ImQ3MzA2Mjg2LTllYTUtNDUyNi05N2FjLTJmMzg2MzAwODY4MCJ9)
+
 
 
 
